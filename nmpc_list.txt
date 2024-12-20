@@ -1,0 +1,1 @@
+taskset --cpu-list 0-9 python main_pedestrian_nmpc.py --horizon=70 --num=100 --n_obs=40
