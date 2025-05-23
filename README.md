@@ -1,6 +1,6 @@
 # Monte Carlo Tree Search with Velocity Obstacles for Safe and Efficient Motion Planning in Dynamic Environments
 
-This repository contains the code to reproduce the experiments described in our paper on Monte Carlo Tree Search (MCTS) with Velocity Obstacles for motion planning in dynamic environments.
+This repository contains the code to reproduce the experiments described in our paper on [Monte Carlo Tree Search (MCTS) with Velocity Obstacles for motion planning in dynamic environments](https://arxiv.org/abs/2501.09649).
 
 ## Prerequisites
 
